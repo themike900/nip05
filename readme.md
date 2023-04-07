@@ -1,0 +1,1 @@
+My nostr resources
